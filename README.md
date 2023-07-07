@@ -1,6 +1,6 @@
-# 🛒 E-commerce Recommender System
+# 🛒 Customer analytics
 
-![Recommender System](recommender_system.png)
+![E-commerce](recommender_system.png)
 
 This repository contains the code and documentation for an expandable recommender system tailored for an e-commerce store. The system utilizes various techniques, including data cleansing, data visualization, the RFM (Recency, Frequency, Monetary) model with score, and clustering algorithms. It aims to provide personalized recommendations to users, enhancing their shopping experience and improving conversion rates.
 
