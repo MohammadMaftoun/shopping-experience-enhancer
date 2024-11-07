@@ -8,8 +8,8 @@ This repository contains the code and documentation for an expandable recommende
 
 - **Data Cleansing**: Implement data preprocessing techniques to ensure data quality, handle missing values, remove outliers, and normalize the data for further analysis.
 - **Data Visualization**: Utilize visualization techniques to gain insights into the e-commerce data, understand customer behavior, identify trends, and support decision-making processes.
-- **RFM Model with Score**: Calculate RFM scores for customers based on their purchase recency, frequency, and monetary value, providing a quantitative measure to segment and target customers effectively.
-- **Clustering**: Apply clustering algorithms to group similar customers together, enabling personalized recommendations by identifying patterns and preferences within different customer segments.
+- **RFM Model with Score**: Calculate RFM customer scores based on their purchase recency, frequency, and monetary value, providing a quantitative measure to segment and target customers effectively.
+- **Clustering**: Apply clustering algorithms to group similar customers, enabling personalized recommendations by identifying patterns and preferences within different customer segments.
 
 ## Getting Started
 
@@ -19,7 +19,7 @@ To get started with the recommender system, follow these steps:
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Prepare the e-commerce dataset for analysis by performing data cleansing techniques.
 4. Visualize the data using various plots and charts to gain insights into customer behavior.
-5. Utilize the RFM model to calculate scores for customers based on their recency, frequency, and monetary value.
+5. Utilize the RFM model to calculate customer scores based on their recency, frequency, and monetary value.
 6. Apply clustering algorithms to identify customer segments and their preferences.
 7. Expand the system by adding additional modules or techniques to enhance the recommendations further.
 
